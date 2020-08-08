@@ -1,7 +1,7 @@
 # Proffy
 
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src="https://ecoleta-larah.herokuapp.com/static/media/logo.47c4581a.svg">
+    <img alt="Logo" title="#logo" width="300px" src="./logo.svg">
 </h3>
 
 
@@ -17,7 +17,7 @@
 
 O <strong>Proffy</strong> é uma aplicação Web e Mobile que conecta alunos e professores de forma prática e intuitiva.
 
-Aplicação que visa ajudar o meio ambiente ao promover pontos de coleta de resíduos que não deveriam ser jogados no lixo comum.
+Facilita para quem busca aprender a encontrar facilmente um professor na área desejada.
 
 Essa aplicação foi construída durante a <strong>Next Level Week #2</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/).</strong>
 
@@ -36,7 +36,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## :heavy_check_mark: :computer: Layout Web
 
 <h1 align="center">
-    <img alt="Web" src=".github/Ecoleta.gif"900px">
+    <img alt="Web" src="./landing.png" width="500px" >
+    <img alt="Web" src="./form.png" width="500px" >
+    <img alt="Web" src="./list.png" width="500px" >
 </h1>
 
 ## :heavy_check_mark: :iphone: Layout Mobile
