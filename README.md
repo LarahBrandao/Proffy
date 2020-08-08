@@ -1,7 +1,7 @@
 # Proffy
 
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src="./logo.svg">
+    <img alt="Logo" title="#logo" width="300px" src="./proffy.png">
 </h3>
 
 
@@ -44,8 +44,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## :heavy_check_mark: :iphone: Layout Mobile
 
 <h1 align="center">
-    <img alt="" src=".github/home.jpeg" width="300px">
-    <img alt="" src=".github/page.jpeg" width="300px">
+    <img alt="" src="./home.png" width="300px">
+    <img alt="" src="./study.png" width="300px">
+    <img alt="" src="./fav.png" width="300px">
 </h1>
 
 <a id="como-usar"></a>
